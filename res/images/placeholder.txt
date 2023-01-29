@@ -1,1 +1,0 @@
-Placeholder file in order to create res/images directory structure
